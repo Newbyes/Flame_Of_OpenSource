@@ -9,3 +9,13 @@ body{
     margin: 4rem auto;
     padding: 2rem;
 }
+div{
+    a{
+        text-decoration: none;
+        img{
+            height: 400px;
+            width: 400px;
+            border-radius: 50%;
+        }
+    }
+}

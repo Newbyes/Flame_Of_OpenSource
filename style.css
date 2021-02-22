@@ -1,13 +1,22 @@
-*{
-    margin: 0%;
-    padding: 0%;
-    box-sizing: border-box;
-    background-color: #ffffff;
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
 }
 
-body{
-    max-width: 1200px;
-    background-color: beige;
-    margin: 2rem auto;
+body {
+  max-width: 1200px;
+  margin: 4rem auto;
+  padding: 2rem;
 }
 
+div a {
+  text-decoration: none;
+}
+div a img {
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+}
+
+/*# sourceMappingURL=style.css.map */
