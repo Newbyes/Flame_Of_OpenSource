@@ -10,10 +10,15 @@ body {
   padding: 2rem;
 }
 
-div a {
+.img-wrap {
+  align-items: center;
+  text-align: center;
+  display: inline-block;
+}
+.img-wrap a {
   text-decoration: none;
 }
-div a img {
+.img-wrap a img {
   height: 400px;
   width: 400px;
   border-radius: 50%;

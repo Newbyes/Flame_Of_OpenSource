@@ -9,7 +9,11 @@ body{
     margin: 4rem auto;
     padding: 2rem;
 }
-div{
+
+.img-wrap{
+    align-items: center;
+    text-align: center;
+    display: inline-block;
     a{
         text-decoration: none;
         img{
