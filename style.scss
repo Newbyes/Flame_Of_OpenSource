@@ -10,16 +10,37 @@ body{
     padding: 2rem;
 }
 
-.img-wrap{
+.wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 4rem;
+    border: 3px solid rgb(190, 224, 36);
+    border-radius: 4px;
+    display: block;
     align-items: center;
     text-align: center;
-    display: inline-block;
+    align-content: space-around;
+
+   .name{
+        display: inline-block;
+       
+        margin-top: .7rem;
+   }
+
+   .img-wrap{
+    align-items: center;
+    text-align: center;
+    display: block;
+    
     a{
         text-decoration: none;
         img{
             height: 400px;
             width: 400px;
             border-radius: 50%;
+            border: 2px solid rgb(84, 199, 228);
         }
     }
 }
+}
+
