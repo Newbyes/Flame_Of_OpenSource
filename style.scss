@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 1200px;
+    margin: 4rem auto;
+    padding: 2rem;
+}
+
+.wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 4rem;
+    border: 3px solid rgb(190, 224, 36);
+    border-radius: 4px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    align-content: space-around;
+
+   .name{
+        display: inline-block;
+       
+        margin-top: .7rem;
+   }
+
+   .img-wrap{
+    align-items: center;
+    text-align: center;
+    display: block;
+    
+    a{
+        text-decoration: none;
+        img{
+            height: 400px;
+            width: 400px;
+            border-radius: 50%;
+            border: 2px solid rgb(84, 199, 228);
+        }
+    }
+}
+}
+
