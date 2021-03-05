@@ -4,5 +4,5 @@ Are you keen to contribute in open source.Here we are to support and tell you th
 Fork this repo.<br>
 To Clone the repo <br>
 ```bash
-git clone https://github.com/Newbyes/Flame_Of_OpenSource.git
+git clone https://github.com/{username}/Flame_Of_OpenSource.git
 ```
