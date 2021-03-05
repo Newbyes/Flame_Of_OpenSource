@@ -7,3 +7,8 @@ To Clone the repo <br>
 ```bash
 git clone https://github.com/{username}/Flame_Of_OpenSource.git
 ```
+### Step 3:
+Change the directory 
+```bash
+cd Flame_of_OpenSource/
+```
