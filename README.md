@@ -4,7 +4,7 @@ Are you keen to contribute in open source.Here we are to support and tell you th
 Prerequisites:<br>
 <ul>
   <li>Git Bash installed</li>
-  <li>Basic html knowlegde</li>
+  <li>Basic html knowledge</li>
 </ul><br>
 
 ## Step 1: Fork
