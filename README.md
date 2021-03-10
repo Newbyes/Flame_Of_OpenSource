@@ -17,5 +17,12 @@ You can test out various commands like
 ```bash
 git status
 ls
-
+git branch
 ```
+## Step 5: Branching
+Make a branch of your own.
+```bash
+git branch {branch name}
+git checkout {branch name}
+```
+
