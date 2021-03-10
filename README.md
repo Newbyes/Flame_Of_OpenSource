@@ -41,3 +41,13 @@ git add CONTRIBUTIONS/{folder with your name}
 git commit -m "{Commit message}"
 git push -u origin {branch name}
 ```
+<br>
+
+### BASIC EXAMPLE:
+Copy paste template.html and style.css files in your folder and a photo of yours too. Change 
+<ol>
+  <li> title in line number 8 from Template to {name}'s Template </li>
+  <li> image in line number 15 from "pic.png" to your photo name </li>
+  <li> name in line number 19 from "name" to your name </li>
+</ol>
+
