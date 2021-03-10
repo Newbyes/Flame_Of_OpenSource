@@ -25,4 +25,6 @@ Make a branch of your own.
 git branch {branch name}
 git checkout {branch name}
 ```
-
+## Step 6: Contribution 
+See the <b><i>template.html</i></b> make amends as you see fit or could do it from scratch. And push in the folder name <b><i>CONTRIBUTIONS</b></i>.<br> 
+Make a folder of you name and put your stuff related to your contribution in there.
