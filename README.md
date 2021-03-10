@@ -27,3 +27,10 @@ git checkout {branch name}
 ```
 ## Step 6: Contribution 
 See the <b><i>template.html</i></b> make amends as you see fit or could do it from scratch. Change the folder to <b><i>CONTRIBUTIONS</i></b> and make folder of your name to push all your contribution in that folder.<br> A basic contibution example will be given in the end. 
+## Step 7: To push
+How to push your code to your github repository
+```bash
+git add CONTRIBUTIONS/{folder with your name}
+git commit -m "{Commit message}"
+git push -u origin {branch name}
+```
