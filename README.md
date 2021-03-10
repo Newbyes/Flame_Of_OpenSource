@@ -46,8 +46,8 @@ git push -u origin {branch name}
 ### BASIC EXAMPLE:
 Copy paste template.html and style.css files in your folder and a photo of yours too. Change 
 <ul>
-  <li> title in line number 8 from Template to {name}'s Template </li>
-  <li> image in line number 15 from "pic.png" to your photo name </li>
-  <li> name in line number 19 from "name" to your name </li>
+  <li> title in line number 8 from Template to {name}'s Template. </li>
+  <li> image in line number 15 from "pic.png" to your photo name. </li>
+  <li> name in line number 19 from "name" to your name. </li>
 </ul>
 
